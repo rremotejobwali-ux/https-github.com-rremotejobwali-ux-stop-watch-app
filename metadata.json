@@ -1,0 +1,5 @@
+{
+  "name": "stop watch app",
+  "description": "A high-precision, aesthetically pleasing stopwatch application featuring lap tracking, millisecond accuracy, and a modern dark-mode interface.",
+  "requestFramePermissions": []
+}
